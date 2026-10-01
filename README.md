@@ -26,17 +26,10 @@ I co-founded **Alpha Flow**, where we build world-model training infrastructure 
 
 ## How I Got Here
 
-```mermaid
-timeline
-    title Path so far
-    2025 : NUS Electrical Engineering (minor AI & CS)
-         : Science & Technology Scholarship
-    Jun 2026 : Stanford IHP
-             : CS 229 Machine Learning · EE 364A Convex Optimization
-    Jun 2026 : Alpha Timing
-             : regime-aware trading system
-    Jul 2026 : Co-founded Alpha Flow
-```
+- **2025** — NUS Electrical Engineering (minor AI & CS), Science & Technology Scholarship
+- **Jun 2026** — Stanford IHP: CS 229 Machine Learning, EE 364A Convex Optimization
+- **Jun 2026** — Built Alpha Timing, a regime-aware trading system
+- **Jul 2026** — Co-founded Alpha Flow
 
 ---
 
