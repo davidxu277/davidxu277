@@ -2,7 +2,7 @@
 
 <h1>Xu Shuyao</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+%C3%97+Quantitative+Trading;Regime+models+%C2%B7+Market+world+models+%C2%B7+Autonomous+agents;NUS+EE+%C2%B7+Stanford+IHP+'26+%C2%B7+Co-founder+%40+Alpha+Flow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+%C3%97+Quantitative+Trading;Regime+models+%C2%B7+Market+world+models+%C2%B7+Autonomous+agents;NUS+EE%2BCS+%C2%B7+Stanford+IHP+'26+%C2%B7+Co-founder+%40+Alpha+Flow)](https://git.io/typing-svg)
 
 <p>NUS EE (minor AI &amp; CS) '29 &nbsp;·&nbsp; Stanford IHP '26</p>
 
